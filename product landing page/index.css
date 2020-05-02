@@ -1,0 +1,75 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: aqua;
+}
+.upper{
+	border: 1px solid blue;
+	border-width: 30px;
+	background-color: blue;
+}
+.logo{
+	width: 70px;
+	height: 30px;
+	margin-left: 50px;
+}
+.txt{
+    margin-right: 500px;
+    margin-left: 30px;
+    width: 400px;
+    height: 30px;
+    background-color: white;
+}
+.txt:hover{
+	background-color: orange;
+	cursor: pointer;
+}
+.slt{
+	margin-right: 45px;
+	width: 60px;
+	height: 30px;
+	font-style: bold;
+	font-size: 15px;
+	background-color: yellow;
+}
+.slt:hover{
+	background-color: orange;
+	cursor: pointer;
+}
+.main{
+	border: 1px solid white;
+	border-width: 15px;
+	background-color: white;
+	width: 100%;
+} 
+.a{
+	margin-left: 45px;
+	margin-right: 200px;
+	border: none;
+} 
+.ig{
+	width: 370px;
+	height: 300px;
+}
+.ig:hover{
+	
+	cursor: pointer;
+}
+tr{
+	background-color: aqua;
+	border: none;
+}
+.view{
+	float: right;
+	margin-right: 20px;
+	width: 60px;
+	height: 40px;
+	background-color: yellow;
+}
+.view:hover{
+	background-color: blue;
+	cursor: pointer;
+}
+img{
+	height: 380px;
+}

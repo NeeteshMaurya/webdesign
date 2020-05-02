@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(a3.jpg);
+	background-size: cover;
+	height: 100vh;
+    background-position: center;
+}
+h1{
+	text-align: center;
+}
+ul li{
+	display: inline-block;
+	float: right;
+}
+ul li a{
+	text-decoration: none;
+	border: 2px solid blue;
+	margin-left: 10px;
+    font-size: 19px;
+}
+ul li a:hover{
+	background-color: red;
+	cursor: pointer;
+}
+.para h3{
+	border: 2px solid grey;
+	width: 400px;
+	height: auto;
+	display: inline-block;
+	left: 0%;
+	top: 40%;
+    font-size: 20px;
+     background-color: orange;
+}
+h1{
+	color: yellow;
+}
+.p{
+	margin-left: 600px;
+}
+.q{
+	margin-left: 57px;
+}
+.sbox{
+	width: 300px;
+	background-color: transparent;
+	outline: none;
+	border-bottom:1px solid red;
+}
+.btn{
+     margin-top: 10px;
+}
+.btn:hover{
+	background-color: red;
+	cursor: pointer;
+}

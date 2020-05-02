@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(x3.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+   
+
+}
+ul li{
+	display: inline-block;
+	float: right;
+}
+ul li a{
+	text-decoration: none;
+	margin-right: 8px;
+	border: 1px solid red;
+    font-size: 18px;
+    color: orange;
+}
+ul li a:hover{
+            background-color: white;
+            cursor:pointer;
+}
+.query{
+	margin-top: 2px;   
+}
+.sbox{
+	background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid red;
+}
+.button:hover{
+	background-color: orange;
+            cursor:pointer;
+}
+.button{
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+.login{
+	width: 500px;
+	text-align: center;
+	position: absolute;
+	top: 35%;
+	left: 35%;
+	border: 2px solid orange;
+	background-color: transparent;
+	color: orange;
+
+}
+.uname{
+	width: 300px;
+	margin-bottom: 20px;
+	background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid yellow;
+}
+.pswd{
+	width: 300px;
+	margin-bottom: 20px;
+	background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid yellow;
+}

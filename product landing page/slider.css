@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+img{
+	width: 1550px;
+	height: 600px;
+}
+.class{
+	animation: 10s;
+}
